@@ -1,0 +1,8 @@
+name: adi_HELP
+version: 1.0
+main: adi.help.Main
+author: Adi
+website: http://youtube.pl/adidubstepmusic/
+
+commands:
+  pomoc:
